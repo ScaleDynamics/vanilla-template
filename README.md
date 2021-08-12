@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://scaledynamics.com/" target="_blank">
-    <img src="https://i.postimg.cc/fyF4hm18/vanilla-stack.png" alt="Vanilla-Stack" />
-  <a>
-</p>
-
 # Vanilla ready to use template for ScaleDynamics platform
 
 This template is configured for the ScaleDynamics web platform. It is ready to use to build your own app/service. All is pre-configured: we provide one command to develop with live reload (frontend and backend) and one to deploy to make it live on a url.
